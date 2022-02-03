@@ -1,6 +1,7 @@
 Chapter-2: 2-16.cpp 2-17a.cpp 2-17b.cpp 2-17c.cpp 2-18.cpp 2-19.cpp 2-20.cpp\
 	       2-21.cpp 2-22.cpp 2-23.cpp 2-24.cpp 2-25.cpp 2-26a.cpp 2-26b.cpp\
 	       2-27.cpp 2-28.cpp 2-29.cpp 2-30.cpp
+	mkdir ../bin
 	g++ -o ../bin/2-16 2-16.cpp
 	g++ -o ../bin/2-17a 2-17a.cpp
 	g++ -o ../bin/2-17b 2-17b.cpp
