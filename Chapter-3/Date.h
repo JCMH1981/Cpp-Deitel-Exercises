@@ -21,7 +21,7 @@ private:
     int day;
     int year;
 public:
-    Date(int, int, int);
+    explicit Date(int, int, int);
     void setMonth(int);
     void setDay(int);
     void setYear(int);
