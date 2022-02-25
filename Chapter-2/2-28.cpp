@@ -2,9 +2,9 @@
 
 Solution of exercise 2.28:
 (Digits of an Integer) Write a program that inputs a five-digit integer, 
-separates the integer into its digits and prints them separated by three spaces 
-each. [Hint: Use the integer division and modulus operators.] For example, if 
-the user types in 42339, the program should print:
+separates the integer into its digits and prints them separated by three 
+spaces each. [Hint: Use the integer division and modulus operators.] For 
+example, if the user types in 42339, the program should print:
 
 	4   2   3   3   9
 

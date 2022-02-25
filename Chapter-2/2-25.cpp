@@ -1,8 +1,9 @@
 /* C++ How to Program, 9/E, by Paul Deitel & Harvey Deitel.
 
 Solution of exercise 2.25:
-(Multiples) Write a program that reads in two integers and determines and prints 
-if the first is a multiple of the second. [Hint: Use the modulus operator.]
+(Multiples) Write a program that reads in two integers and determines and 
+prints if the first is a multiple of the second. [Hint: Use the modulus 
+operator.]
 
 Written by Juan Carlos Moreno (jcmhsoftware@gmail.com), 2022/01/05 */
 

@@ -1,8 +1,8 @@
 /* C++ How to Program, 9/E, by Paul Deitel & Harvey Deitel.
 
 Solution of exercise 2.30:
-(Body Mass Index Calculator) We introduced the body mass index (BMI) calculator 
-in Exercise 1.9. The formulas for calculating BMI are
+(Body Mass Index Calculator) We introduced the body mass index (BMI) 
+calculator in Exercise 1.9. The formulas for calculating BMI are
 
                 weightInPounds x 703    
     BMI = ---------------------------------
@@ -17,8 +17,8 @@ Create a BMI calculator application that reads the user’s weight in pounds and
 height in inches (or, if you prefer, the user’s weight in kilograms and height 
 in meters), then calculates and displays the user’s body mass index. Also, the 
 application should display the following information from the Department of 
-Health and Human Services/National Institutes of Health so the user can evaluate 
-his/her BMI:
+Health and Human Services/National Institutes of Health so the user can 
+evaluate his/her BMI:
 
     BMI VALUES
     Underweight: less than 18.5
@@ -34,6 +34,7 @@ with doubles, they’ll both produce numbers with decimal points—these are cal
 "floating-point" numbers.]
 
 Written by Juan Carlos Moreno (jcmhsoftware@gmail.com), 2022/01/09 */
+
 #include <iostream>
 
 using namespace std;

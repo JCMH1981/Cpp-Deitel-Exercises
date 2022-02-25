@@ -1,9 +1,9 @@
 /* C++ How to Program, 9/E, by Paul Deitel & Harvey Deitel.
 
 Solution of exercise 2.23:
-(Largest and Smallest Integers) Write a program that reads in five integers and 
-determines and prints the largest and the smallest integers in the group. Use 
-only the programming techniques you learned in this chapter.
+(Largest and Smallest Integers) Write a program that reads in five integers 
+and determines and prints the largest and the smallest integers in the group. 
+Use only the programming techniques you learned in this chapter.
 
 Written by Juan Carlos Moreno (jcmhsoftware@gmail.com), 2022/01/04 */
 

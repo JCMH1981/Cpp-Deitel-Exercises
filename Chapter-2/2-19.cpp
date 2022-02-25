@@ -1,8 +1,9 @@
 /* C++ How to Program, 9/E, by Paul Deitel & Harvey Deitel.
+
 Solution of exercise 2.19:
 (Arithmetic, Smallest and Largest) Write a program that inputs three integers 
-from the keyboard and prints the sum, average, product, smallest and largest of 
-these numbers. The screen dialog should appear as follows:
+from the keyboard and prints the sum, average, product, smallest and largest 
+of these numbers. The screen dialog should appear as follows:
 
 	Input three different integers: 13 27 14
 	Sum is 54
@@ -12,6 +13,7 @@ these numbers. The screen dialog should appear as follows:
 	Largest is 27
 
 Written by Juan Carlos Moreno (jcmhsoftware@gmail.com), 2022/01/02 */
+
 #include <iostream>
 
 using namespace std;
