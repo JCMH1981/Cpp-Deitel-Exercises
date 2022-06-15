@@ -25,7 +25,7 @@ class Account
 private:
     int balance;
 public:
-    explicit Account(int balance);
+    explicit Account(int initial_balance);
     void credit(int amount);
     void debit(int amount);
     int getBalance() const;

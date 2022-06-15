@@ -28,7 +28,7 @@ Account::Account(int initial_balance)
     if (initial_balance >= 0)
     {
         balance = initial_balance;
-	}
+    }
     else
     {
         balance = 0;
