@@ -24,7 +24,7 @@ BMI, maximum heart rate and target-heart-rate range. It should also display
 the “BMI values” chart from Exercise 2.30. Use the same technique as Exercise 
 3.16 to calculate the person's age.
  
-Written by Juan Carlos Moreno (jcmhsoftware@gmail.com), 202x-xx-xx */
+Written by Juan Carlos Moreno (jcmhsoftware@gmail.com), 2022-12-30 */
 
 class HealthProfile
 {
