@@ -1,4 +1,4 @@
-/*C++ How to Program, 9/E, Deitel & Deitel.
+/*C++ How to Program, 9/E, by Paul Deitel & Harvey Deitel.
    
 Solution of exercise 4.14:
 (Credit Limits) Develop a C++ program that will determine whether a 
@@ -46,11 +46,11 @@ using namespace std;
 int main(void)
 {
     int account_number; //Account number
-    float beginning_balance; //Balance at the beginning of the month
-    float charges; //Total of items charged by this customer this month
-    float credits; //Total of credits applied to this customer this month
-    float credit_limit; //Allowed credit limit
-    float new_balance; //New balance
+    double beginning_balance; //Balance at the beginning of the month
+    double charges; //Total of items charged by this customer this month
+    double credits; //Total of credits applied to this customer this month
+    double credit_limit; //Allowed credit limit
+    double new_balance; //New balance
 
     while (account_number != -1)
     {
