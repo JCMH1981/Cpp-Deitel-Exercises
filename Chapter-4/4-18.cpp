@@ -1,4 +1,4 @@
-/*C How to Program, 6/E, Deitel & Deitel.
+/*C++ How to Program, 9/E, by Paul Deitel & Harvey Deitel.
    
 Solution of exercise 4.18:
 (Tabular Output) Write a C++ program that uses a while statement and the tab 
@@ -12,7 +12,7 @@ escape sequence \t to print the following table of values:
 	4		40		400		4000
 	5		50		500		5000
 
-Written by Juan Carlos Moreno (jcmhsoftware@gmail.com), 2023-01-19. */
+Written by Juan Carlos Moreno (jcmhsoftware@gmail.com), 2023-01-19.*/
 
 #include <iostream>
 
